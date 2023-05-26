@@ -1,6 +1,6 @@
 # Gilded Rose Refactoring Kata
 
-# This version if a refactored Kata by the author of this repository. Feel free to take contact with me by email if you have any remark.
+# This version is the refactored Kata from gilded rose by the author of this git. Feel free to take contact with me by email if you have any remark.
 
 ADDED NOTE. This is the default description for this kata. I kept it for reference and credit to the original autor, removed unecessary part.
 
