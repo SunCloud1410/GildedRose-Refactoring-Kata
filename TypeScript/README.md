@@ -1,6 +1,6 @@
 # Gilded Rose
 
-This is the Gilded Rose kata in TypeScript.
+This is the Gilded Rose kata in TypeScript, refactored by SunCloud (RC) for the purpose of a appliance.
 
 ## Getting started
 
@@ -27,6 +27,7 @@ npx ts-node test/golden-master-text-test.ts 10
 To run all tests
 
 ### Jest way
+I used this testing method and configured the test with Jest only.
 
 ```sh
 npm run test:jest
@@ -38,8 +39,3 @@ To run all tests in watch mode
 npm run test:jest:watch
 ```
 
-### Mocha way
-
-```sh
-npm run test:mocha
-```
